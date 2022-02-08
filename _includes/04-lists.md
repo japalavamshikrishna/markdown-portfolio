@@ -1,3 +1,4 @@
-Replace this with a list of your favorite things.
-* item 1
-* item 2
+ a list of your favorite things.
+* dogs
+* rats
+* cats
